@@ -1,4 +1,3 @@
-me@lylac.dev
 ```
    __     lylac@KISS
   |\_'    os     KISS Linux
